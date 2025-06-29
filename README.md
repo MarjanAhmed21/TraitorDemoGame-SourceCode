@@ -1,2 +1,3 @@
-# TraitorDemoGame-SourceCode
-Source code (C#, JPG &amp; PNG files) for this game.
+# How to DOWNLOAD game
+Visit the link below to view & download this game from Itch.io
+https://marjanahmed21.itch.io/2d-traitor-short-demo
